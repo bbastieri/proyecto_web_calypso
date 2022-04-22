@@ -83,6 +83,7 @@ html{
     padding-right: 30px;
     position: relative;
     border-right: 2px solid;
+    transition: transform 0.7gits;
 }
 
 .headerNav a{
